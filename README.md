@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fireburn553
+- 👋 Hi, I’m James Charlie Salva
 - 👀 I’m interested in Web Full Stack Development
 - 🌱 I’m currently learning Web Front End
 - 💞️ I’m looking to collaborate on HTML, CSS, Javascript, and Python
